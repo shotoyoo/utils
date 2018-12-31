@@ -1,6 +1,7 @@
 map
 map_orig
 midi/out/*.mid
+midi/*.mid
 mp4/in/*.mp4
 mp4/out/*.mp4
 tabelog/test*.csv
