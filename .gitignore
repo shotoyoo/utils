@@ -1,6 +1,6 @@
 map
 map_orig
-midi/out/*
-mp4/in/*
-mp4/out/*
-tabelog/test*
+midi/out/*.mid
+mp4/in/*.mp4
+mp4/out/*.mp4
+tabelog/test*.csv
