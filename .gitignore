@@ -1,0 +1,6 @@
+map
+map_orig
+midi/out/*
+mp4/in/*
+mp4/out/*
+tabelog/test*
